@@ -5,6 +5,6 @@
 -->
 <div>
   <a href="https://x1vfk7wp13.github.io">
-    <img src="https://skillicons.dev/icons?i=docker,apple,unity,reactivex,swift,nextjs,ts,tailwind,py,fastapi,postgres,gitlab" />
+    <img src="https://skillicons.dev/icons?i=docker,apple,unity,reactivex,swift,nextjs,ts,tailwind,py,fastapi,postgres,flutter" />
   </a>
 </div>
